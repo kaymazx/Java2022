@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="oopWithNLayeredAppKodlamaio.dataAcces.CategoryDao"/>
+    <fullyQualifiedTypeName name="java.lang.System.Logger"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredAppKodlamaio.core.logging.FileLogger"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredAppKodlamaio.core.logging.MailLogger"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredAppKodlamaio.entities.Instructor"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredAppKodlamaio.dataAcces.HibernateInstructorDao"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredAppKodlamaio.business.InstructorManager"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredAppKodlamaio.entities.Course"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredAppKodlamaio.dataAcces.HibernateCourseDao"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredAppKodlamaio.business.CourseManager"/>
+    <fullyQualifiedTypeName name="java.util.Locale.Category"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredAppKodlamaio.dataAcces.JdbcCategoryDao"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredAppKodlamaio.dataAcces.JdbcInstructorDao"/>
+</qualifiedTypeNameHistroy>

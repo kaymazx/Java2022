@@ -1,0 +1,28 @@
+package oopWithNLayeredAppKodlamaio;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import oopWithNLayeredAppKodlamaio.business.CategoryManager;
+import oopWithNLayeredAppKodlamaio.business.CourseManager;
+import oopWithNLayeredAppKodlamaio.business.InstructorManager;
+import oopWithNLayeredAppKodlamaio.core.logging.DatabaseLogger;
+import oopWithNLayeredAppKodlamaio.core.logging.FileLogger;
+import oopWithNLayeredAppKodlamaio.core.logging.Logger;
+import oopWithNLayeredAppKodlamaio.core.logging.MailLogger;
+import oopWithNLayeredAppKodlamaio.dataAcces.HibernateCourseDao;
+import oopWithNLayeredAppKodlamaio.dataAcces.HibernateInstructorDao;
+import oopWithNLayeredAppKodlamaio.dataAcces.JdbcCategoryDao;
+import oopWithNLayeredAppKodlamaio.entities.Category;
+import oopWithNLayeredAppKodlamaio.entities.Course;
+import oopWithNLayeredAppKodlamaio.entities.Instructor;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}

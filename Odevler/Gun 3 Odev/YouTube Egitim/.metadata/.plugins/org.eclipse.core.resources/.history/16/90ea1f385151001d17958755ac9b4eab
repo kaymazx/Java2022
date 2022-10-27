@@ -1,0 +1,6 @@
+
+public class CustomerManager {
+	public void Save() {
+		System.out.println("Musteri Eklendi.");
+	}
+}

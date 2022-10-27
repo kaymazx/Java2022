@@ -1,0 +1,8 @@
+package kodlama.io.rentACar.webApi.controllers;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class BrandsController {
+
+}//api isimlendirmeleri cogul kullanilir

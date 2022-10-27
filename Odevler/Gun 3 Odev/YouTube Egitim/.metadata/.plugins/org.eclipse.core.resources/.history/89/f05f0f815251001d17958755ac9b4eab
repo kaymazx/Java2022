@@ -1,0 +1,11 @@
+
+public class CustomerManager {
+	private Customer customer;
+	public CustomerManager(Customer customer) {
+		customer=customer;
+	}
+	public void Save() {
+		System.out.println("Musteri Eklendi.");
+	}
+	
+}

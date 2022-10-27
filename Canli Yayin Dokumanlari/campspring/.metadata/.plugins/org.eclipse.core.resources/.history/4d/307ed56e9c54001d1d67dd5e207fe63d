@@ -1,0 +1,5 @@
+package kodlama.io.rentACar.dataAcces.concretes;
+
+public class InMemoryBrandRepository {
+
+}

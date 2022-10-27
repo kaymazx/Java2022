@@ -1,0 +1,5 @@
+package kodlama.io.rentACar.dataAcces.abstracts;
+
+public interface BrandRepository {
+
+}

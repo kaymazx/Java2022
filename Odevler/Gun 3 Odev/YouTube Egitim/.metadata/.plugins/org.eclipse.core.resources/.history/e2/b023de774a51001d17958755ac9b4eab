@@ -1,0 +1,16 @@
+
+public class Customer {
+
+	public int Id;
+	public String FirstName;
+	public String LastName;
+	public String NationalIdentity;
+	public String City;
+
+	public Customer() {
+		System.out.println("Musteri nesnesi baslatildi");
+	}
+
+	
+
+}

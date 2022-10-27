@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\oguz\Desktop\Java2022\Odevler\Gun 3 Odev 3\YouTube Egitim\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4171309112.index
+3326885781.index

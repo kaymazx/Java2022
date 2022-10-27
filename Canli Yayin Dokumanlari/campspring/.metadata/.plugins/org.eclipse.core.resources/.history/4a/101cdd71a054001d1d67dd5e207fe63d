@@ -1,0 +1,18 @@
+package kodlama.io.rentACar.webApi.controllers;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import kodlama.io.rentACar.buniess.abstracts.BrandService;
+
+@RestController //annotation 
+@RequestMapping("/api/brands")
+public class BrandsController {
+	private BrandService brandServise;
+
+	public BrandsController(BrandService brandServise) {
+		this.brandServise = brandServise;
+	}
+	
+	
+}
