@@ -1,0 +1,16 @@
+package Kodlama.io.Devs.entities.concretes;
+
+public class ProgrammingLanguage {
+	private int id;
+	private String name;
+	
+	public ProgrammingLanguage() {
+	}
+
+	public ProgrammingLanguage(int id, String name) {
+		this.id = id;
+		this.name = name;
+	}
+	
+
+}

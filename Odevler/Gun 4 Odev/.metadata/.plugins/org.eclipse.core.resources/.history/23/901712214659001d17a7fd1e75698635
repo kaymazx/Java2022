@@ -1,0 +1,13 @@
+package Kodlama.io.Devs.business.abstracts;
+
+public interface ProgrammingLanguageService {
+	List<ProgrammingLanguage> getAll();
+
+	ProgrammingLanguage getById(int id);
+
+	void add(ProgrammingLanguage programmingLanguage);
+
+	void delete(int id);
+
+	void update(ProgrammingLanguage programmingLanguage);
+}

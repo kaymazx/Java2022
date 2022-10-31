@@ -1,0 +1,42 @@
+package Kodlama.io.Devs.dataAcces.concretes;
+
+import java.util.List;
+
+import Kodlama.io.Devs.dataAcces.abstracts.ProgrammingLanguageRepository;
+import Kodlama.io.Devs.entities.concretes.ProgrammingLanguage;
+
+public class InMemoryProgrammingLanguage implements ProgrammingLanguageRepository{
+	
+	List<ProgrammingLanguage> programmingLanguages;
+
+	@Override
+	public void save(ProgrammingLanguage programmingLanguage) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void delete(ProgrammingLanguage programmingLanguage) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void modify(ProgrammingLanguage programmingLanguage) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<ProgrammingLanguage> getList() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ProgrammingLanguage getById(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
